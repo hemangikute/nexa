@@ -17,6 +17,7 @@ public class AdminLogin {
 		driver.findElement(By.id("username")).sendKeys(username);
 		driver.findElement(By.id("password")).sendKeys(password);
 		driver.findElement(By.name("admin")).click();
+		system.out.println("hello there");
 
 	}
 
