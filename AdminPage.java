@@ -16,7 +16,7 @@ public class AdminPage {
 		this.driver = driver;
 		
 	}
-
+         //approving patient
 	public String approvePatient(HashMap<String, String> hMap) throws Exception
 	{
 		
