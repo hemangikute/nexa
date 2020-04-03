@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 public class AdminLogin {
 	
 	WebDriver driver;
-	//constructor
+	//calling constructor 
 	public AdminLogin(WebDriver driver) 
 	{
 		this.driver = driver;
